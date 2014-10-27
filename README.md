@@ -17,7 +17,6 @@ can include:
     chapter reading
 - Modified applications which run on older (or newer)
     versions of Python
-****
 
 **License**
 
