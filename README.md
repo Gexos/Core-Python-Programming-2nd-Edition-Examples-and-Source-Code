@@ -2,6 +2,23 @@ Core-Python-Programming-2nd-Edition-Examples-and-Source-Code
 ============================================================
 
 Examples and source code from the book "Core Python Programming", 2nd Edition, by Wesley J. Chun
+****
+
+These directories contain all of the source code for the
+applications in the book, e.g., Example x.y, with each
+directory representing the code for a chapter in the book
+which features at least one code Example.
+
+In each directory, you may also find a subdirectory named
+"alt" which will contain alternative source code.  These
+can include:
+
+- Applications that have been more fully-commented
+- Some of the more lengthy code snippets featured as
+    chapter reading
+- Modified applications which run on older (or newer)
+    versions of Python
+***
 
 Source code for the book is released under the 
 Creative Commons Attribution-SharedAlike2.5 License.
