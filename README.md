@@ -18,6 +18,7 @@ can include:
 - Modified applications which run on older (or newer)
     versions of Python
 ****
+
 **License**
 
 Source code for the book is released under the 
